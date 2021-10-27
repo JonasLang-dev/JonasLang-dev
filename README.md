@@ -47,5 +47,5 @@ Here are some ideas to get you started:
 <br>
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=supercutcat)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=supercutcat&theme=juicyfresh&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
