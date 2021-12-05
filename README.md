@@ -42,8 +42,8 @@ Here are some ideas to get you started:
 
 ## 🏆 *Github Status*
 
-<img  src="https://github-readme-stats.vercel.app/api?username=supercutcat&show_icons=true&hide_border=true&theme=dark" width="48%" align="right" >
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=supercutcat&theme=dark" width="48%" >
+<img  src="https://github-readme-stats.vercel.app/api?username=supercutcat&show_icons=true&hide_border=true" width="48%" align="right" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=supercutcat" width="48%" >
 <br>
 <div align="center">
 
