@@ -19,17 +19,8 @@ Here are some ideas to get you started:
 
 <p align="left"> 
  <img src="https://komarev.com/ghpvc/?username=supercutcat&label=Profile%20views&color=0e75b6&style=flat" alt="dey-sumit" /> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy/issues">
-    <img src="https://img.shields.io/github/issues/ryo-ma/github-profile-trophy"/> 
-  </a>
-  <a href="https://github.com/ryo-ma/github-profile-trophy/network/members">
-    <img src="https://img.shields.io/github/forks/supercutcat/github-profile-trophy"/> 
-  </a>  
-  <a href="https://github.com/ryo-ma/github-profile-trophy/stargazers">
-    <img src="https://img.shields.io/github/stars/supercutcat/github-profile-trophy"/> 
-  </a>
-    <a href="https://github.com/ryo-ma/github-profile-trophy/LICENSE">
-    <img src="https://img.shields.io/github/license/supercutcat/github-profile-trophy"/> 
+  <a href="https://github.com/supercutcat/stargazers">
+    <img src="https://img.shields.io/github/stars/supercutcat"/> 
   </a>
 </p>
 
