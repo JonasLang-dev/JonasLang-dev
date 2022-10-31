@@ -1,7 +1,7 @@
-### Hi there 👋, I'm supercutcat
+### Hi there 👋, I'm Jonas Lang.
 
 <!--
-**supercutcat/supercutcat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**JonasLang-dev/JonasLang-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -18,20 +18,20 @@ Here are some ideas to get you started:
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> 
- <img src="https://komarev.com/ghpvc/?username=supercutcat&label=Profile%20views&color=0e75b6&style=flat" alt="dey-sumit" /> 
-  <a href="https://github.com/supercutcat/stargazers">
-    <img src="https://img.shields.io/github/stars/supercutcat"/> 
+ <img src="https://komarev.com/ghpvc/?username=JonasLang-dev&label=Profile%20views&color=0e75b6&style=flat" alt="dey-sumit" /> 
+  <a href="https://github.com/JonasLang-dev/stargazers">
+    <img src="https://img.shields.io/github/stars/JonasLang-dev"/> 
   </a>
 </p>
 
-[<img src="https://img.shields.io/twitter/follow/supercutcat?logo=twitter&style=for-the-badge" />](https://twitter.com/supercutcat)
+[<img src="https://img.shields.io/twitter/follow/JonasLangDev?logo=twitter&style=for-the-badge" />](https://twitter.com/JonasLangDev)
  [<img src="https://img.shields.io/youtube/channel/views/UC-L-KqwoHU2GMjJk2dmx5AQ?logo=youtube&style=for-the-badge">](https://www.youtube.com/channel/UC-L-KqwoHU2GMjJk2dmx5AQ)
-[<img src="https://img.shields.io/github/followers/supercutcat?logo=github&style=for-the-badge&logoColor=white">](https://github.com/supercutcat)
-[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:langguoyu139@gmail.com)
+[<img src="https://img.shields.io/github/followers/JonasLang-dev?logo=github&style=for-the-badge&logoColor=white">](https://github.com/JonasLang-dev)
+[<img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />](mailto:jonaslangdev@gmail.com)
 
 
 - 🌱 I’m currently learning: **MUI Express and Vue**
-- 📫 How to reach me: **supercutcat@outlook.com**
+- 📫 How to reach me: **jonaslangdev@gmail.com**
 - ⚡ Fun fact: **Netfilx and Video Game**
 - 🌐 My website: **<https://supercutcat.com>**
 - 🔭 I’m currently working: **[React](https://github.com/facebook/react) with [antd pro](https://github.com/ant-design/ant-design-pro)**
@@ -58,11 +58,11 @@ Here are some ideas to get you started:
 
 ## 🏆 *Github Status*
 
-<img  src="https://github-readme-stats.vercel.app/api?username=supercutcat&show_icons=true&hide_border=true" width="48%" align="right" >
+<img  src="https://github-readme-stats.vercel.app/api?username=JonasLang-dev&show_icons=true&hide_border=true" width="48%" align="right" >
 
-<img  src="https://github-readme-streak-stats.herokuapp.com/?user=supercutcat" width="48%" >
+<img  src="https://github-readme-streak-stats.herokuapp.com/?user=JonasLang-dev" width="48%" >
 <br>
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=supercutcat&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=JonasLang-dev&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
